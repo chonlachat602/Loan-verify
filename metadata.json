@@ -1,0 +1,5 @@
+{
+  "name": "LoanVerify AI",
+  "description": "AI-powered loan eligibility analyzer using Google Gemini. Upload your documents (ID, Salary Slips, Statements) to get an instant creditworthiness assessment and bank recommendations.",
+  "requestFramePermissions": []
+}
